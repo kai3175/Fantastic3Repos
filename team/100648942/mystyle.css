@@ -1,0 +1,21 @@
+h1 {
+    color: rgb(245, 99, 99);
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+    cursor: grabbing;
+    border: 1px solid rgb(30, 30, 180);
+    background-color: rgb(231, 109, 109);
+    transition: background-color .5s, color .5s;
+    margin-bottom: 20px;
+}
+
+h1:hover {
+    background-color: rgb(11, 92, 45);
+    color: white;
+}
+
+p {
+    text-align: center;
+
+}
