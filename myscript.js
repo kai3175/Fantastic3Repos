@@ -44,104 +44,14 @@ var imageList = [
 var students =
 [
     {
-        "path": "100613352",
-        "lastName": "Li",
-        "firstName": "Qiao"
+        "path": "100000000",
+        "lastName": "Kussay",
+        "firstName": "Teacher"
     },
     {
-      "path": "100654914",
-      "lastName": "Poile",
-      "firstName": "Aidan"
-    },
-    {
-      "path": "100647761",
-      "lastName": "Church",
-      "firstName": "Alexander"
-    },
-    {
-      "path": "100640522",
-      "lastName": "Wilson",
-      "firstName": "Andrew"
-    },
-    {
-      "path": "100259303",
-      "lastName": "Pongrac",
-      "firstName": "Christopher"
-    },
-    {
-      "path": "100628690",
-      "lastName": "Yabon",
-      "firstName": "Denz John Anthony"
-    },
-    {
-      "path": "100656162",
-      "lastName": "Singh",
-      "firstName": "Harshdeep"
-    },
-    {
-      "path": "100656660",
-      "lastName": "Selek",
-      "firstName": "Ibrahim"
-    },
-    {
-      "path": "100656651",
-      "lastName": "Juniper",
-      "firstName": "Jesselyn"
-    },
-    {
-      "path": "100655470",
-      "lastName": "Wolf",
-      "firstName": "Jessica"
-    },
-    {
-      "path": "100655651",
-      "lastName": "Mostanovski",
-      "firstName": "Jovan"
-    },
-    {
-      "path": "100642781",
-      "lastName": "Rittipan",
-      "firstName": "Kongphop"
-    },
-    {
-      "path": "100654907",
-      "lastName": "Bruce",
-      "firstName": "Matthew"
-    },
-    {
-      "path": "100656656",
-      "lastName": "Palamara",
-      "firstName": "Matthew"
-    },
-    {
-      "path": "100655501",
-      "lastName": "Le",
-      "firstName": "Mi"
-    },
-    {
-      "path": "100656505",
-      "lastName": "Gunawan",
-      "firstName": "Muhammad"
-    },
-    {
-      "path": "100656652",
-      "lastName": "Kaviani Arani",
-      "firstName": "Nima"
-    },
-    {
-      "path": "100640453",
-      "lastName": "Prasad",
-      "firstName": "Reeta"
-    },
-    {
-      "path": "100587002",
-      "lastName": "Le",
-      "firstName": "Tran Hung Thinh"
-    },
-    {
-      "path": "100633202",
-      "lastName": "Christophersen",
-      "firstName": "William"
+      "path": "100000000",
+      "lastName": "FName",
+      "firstName": "LName"
     }
    ];
 
