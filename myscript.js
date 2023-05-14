@@ -79,19 +79,9 @@ var students =
       "path": "10070000",
       "lastName": "FName",
       "firstName": "LName"
-    },
-<<<<<<< HEAD
-    {
-      "path": "10070000",
-      "lastName": "FName",
-      "firstName": "LName"
-=======
-     {
-        "path": "10080000",
-        "lastName": "Kussay",
-        "firstName": "Teacher"
->>>>>>> e72a3853a1b80f4458bce847bdd8bc51772ed220
     }
+
+    
    ];
 
 const maxColor = 15;
