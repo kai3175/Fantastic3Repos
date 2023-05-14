@@ -44,14 +44,9 @@ var imageList = [
 var students =
 [
     {
-        "path": "10080000",
+        "path": "10010000",
         "lastName": "Kussay",
         "firstName": "Teacher"
-    },
-    {
-      "path": "10010000",
-      "lastName": "FName",
-      "firstName": "LName"
     },
     {
       "path": "10020000",
@@ -75,6 +70,11 @@ var students =
     },
     {
       "path": "10060000",
+      "lastName": "FName",
+      "firstName": "LName"
+    },
+    {
+      "path": "10070000",
       "lastName": "FName",
       "firstName": "LName"
     },
